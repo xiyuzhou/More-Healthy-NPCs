@@ -1,5 +1,5 @@
 # More-Healthy-NPCs <br>
-LeftMouseButton to make light attack,  <br>
-RightMouseButton to make heavy attack, <br>
-MiddleMouseButton to make poison attack. <br>
-Build: 
+LeftMouseButton   = light attack,  <br>
+RightMouseButton  = heavy attack, <br>
+MiddleMouseButton = poison attack. <br>
+Build: https://xiyuzhou.github.io/More-Healthy-NPCs/
